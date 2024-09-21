@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1695158805001,
+    "addDate": 1726732388837,
     "title": "Favorites bar",
     "children": [
       {
@@ -9,6 +9,55 @@
         "addDate": 1718835762679,
         "title": "My Network",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1724967212006,
+            "title": "Immich Proxy",
+            "icon": "https://logo.clearbit.com/photos.357987.xyz",
+            "url": "https://photos.357987.xyz/photos"
+          },
+          {
+            "type": "link",
+            "addDate": 1724957034036,
+            "title": "Portainer | 雨云",
+            "icon": "https://logo.clearbit.com/port.357987.xyz",
+            "url": "https://port.357987.xyz/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724916065077,
+            "title": "CodeServer Proxy",
+            "icon": "https://logo.clearbit.com/cs.hn.neilforest.xyz",
+            "url": "https://cs.hn.neilforest.xyz/?folder=/obsidian"
+          },
+          {
+            "type": "link",
+            "addDate": 1724790248801,
+            "title": "NPM | 雨云",
+            "icon": "https://logo.clearbit.com/npm.357987.xyz",
+            "url": "https://npm.357987.xyz/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1724789020557,
+            "title": "frps | 雨云",
+            "icon": "https://logo.clearbit.com/frps.357987.xyz",
+            "url": "https://frps.357987.xyz/static/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724788883878,
+            "title": "Jellyfin Fast Proxy",
+            "icon": "https://logo.clearbit.com/357987.xyz",
+            "url": "https://357987.xyz/web/#/home.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724134593880,
+            "title": "管理云服务器 | 雨云",
+            "icon": "https://logo.clearbit.com/app.rainyun.com",
+            "url": "https://app.rainyun.com/apps/rcs/101308/detail"
+          },
           {
             "type": "link",
             "addDate": 1723826565178,
@@ -155,13 +204,6 @@
             "title": "Gopeed Proxy",
             "icon": "https://logo.clearbit.com/gopeed.hn.neilforest.xyz",
             "url": "https://gopeed.hn.neilforest.xyz/#/home/task"
-          },
-          {
-            "type": "link",
-            "addDate": 1719458071044,
-            "title": "Kavi",
-            "icon": "https://logo.clearbit.com/neilforest.xyz",
-            "url": "https://neilforest.xyz/board/default"
           },
           {
             "type": "link",
@@ -429,6 +471,34 @@
             "children": [
               {
                 "type": "link",
+                "addDate": 1725569314908,
+                "title": "UBits :: 首页",
+                "icon": "https://logo.clearbit.com/ubits.club",
+                "url": "https://ubits.club/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725349655518,
+                "title": "猫站 :: 登录 PTerClub",
+                "icon": "https://logo.clearbit.com/pterclub.com",
+                "url": "https://pterclub.com/login.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1725044407472,
+                "title": "青蛙 :: 首页",
+                "icon": "https://logo.clearbit.com/www.qingwapt.com",
+                "url": "https://www.qingwapt.com/index.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1723829027617,
+                "title": "M-Team - TP :: 首頁",
+                "icon": "https://logo.clearbit.com/kp.m-team.cc",
+                "url": "https://kp.m-team.cc/index"
+              },
+              {
+                "type": "link",
                 "addDate": 1723588245773,
                 "title": "BTSCHOOL :: 首页",
                 "icon": "https://logo.clearbit.com/pt.btschool.club",
@@ -513,13 +583,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1722179330361,
-                "title": "青蛙 :: 种子 - Powered by NexusPHP",
-                "icon": "https://logo.clearbit.com/www.qingwapt.com",
-                "url": "https://www.qingwapt.com/torrents.php?tag_ids=%5B3%5D"
-              },
-              {
-                "type": "link",
                 "addDate": 1721995608007,
                 "title": "HDTIME :: 常见问题 高清时间 | pt｜下载｜10bit |HDTimePT - Pow…",
                 "icon": "https://logo.clearbit.com/hdtime.org",
@@ -552,13 +615,6 @@
                 "title": "U2 :: 登入",
                 "icon": "https://logo.clearbit.com/u2.dmhy.org",
                 "url": "https://u2.dmhy.org/portal.php"
-              },
-              {
-                "type": "link",
-                "addDate": 1721824572455,
-                "title": "青蛙 :: 登录",
-                "icon": "https://logo.clearbit.com/www.qingwapt.com",
-                "url": "https://www.qingwapt.com/login.php"
               },
               {
                 "type": "link",
@@ -652,6 +708,69 @@
                 "url": "https://www.haidan.video/torrents.php?&spstate=2&search_area=0&search_mode=0&inclbookmarked=0&incldead=1"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1725297071091,
+            "title": "登录HostooCDN用户系统",
+            "icon": "https://logo.clearbit.com/cdn.hostoo.me",
+            "url": "https://cdn.hostoo.me/login?from=%2Fservers"
+          },
+          {
+            "type": "link",
+            "addDate": 1725289076106,
+            "title": "VPS server | netcup",
+            "icon": "https://logo.clearbit.com/www.netcup.com",
+            "url": "https://www.netcup.com/en/server/vps"
+          },
+          {
+            "type": "link",
+            "addDate": 1725283448776,
+            "title": "UBits :: 登录",
+            "icon": "https://logo.clearbit.com/ubits.club",
+            "url": "https://ubits.club/login.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1725051145612,
+            "title": "svgshare.com",
+            "icon": "https://logo.clearbit.com/svgur.com",
+            "url": "https://svgur.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725049151164,
+            "title": "SVG Viewer",
+            "icon": "https://logo.clearbit.com/www.svgviewer.dev",
+            "url": "https://www.svgviewer.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724946156210,
+            "title": "linuxserver/code-server - Docker Image | Docker Hub",
+            "icon": "https://logo.clearbit.com/hub.docker.com",
+            "url": "https://hub.docker.com/r/linuxserver/code-server"
+          },
+          {
+            "type": "link",
+            "addDate": 1724099548636,
+            "title": "安装Docker - 咸鱼的知识库",
+            "icon": "https://logo.clearbit.com/docs.xianyu.one",
+            "url": "https://docs.xianyu.one/Docker/%E5%AE%89%E8%A3%85Docker/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724077658093,
+            "title": "Zeabur托管",
+            "icon": "https://logo.clearbit.com/dash.zeabur.com",
+            "url": "https://dash.zeabur.com/account/general"
+          },
+          {
+            "type": "link",
+            "addDate": 1723828499128,
+            "title": "Projects - Zeabur托管",
+            "icon": "https://logo.clearbit.com/dash.zeabur.com",
+            "url": "https://dash.zeabur.com/projects"
           },
           {
             "type": "link",
@@ -1010,6 +1129,20 @@
         "addDate": 1681839722109,
         "title": "Coding",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1725469265473,
+            "title": "CodeCrafter编程训练",
+            "icon": "https://logo.clearbit.com/app.codecrafters.io",
+            "url": "https://app.codecrafters.io/catalog"
+          },
+          {
+            "type": "link",
+            "addDate": 1723581678549,
+            "title": "Go语言正则表达式：regexp包",
+            "icon": "https://logo.clearbit.com/c.biancheng.net",
+            "url": "https://c.biancheng.net/view/5124.html"
+          },
           {
             "type": "link",
             "addDate": 1697194061065,
@@ -1380,6 +1513,55 @@
                 "url": "https://discord.com/channels/662267976984297473/1008571244200861726"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1726841092197,
+            "title": "Fab.com",
+            "icon": "https://logo.clearbit.com/www.fab.com",
+            "url": "https://www.fab.com/become-a-publisher"
+          },
+          {
+            "type": "link",
+            "addDate": 1726338164386,
+            "title": "Autodesk Genuine Service 强制卸载补丁v4 – 编动小组",
+            "icon": "https://logo.clearbit.com/www.bdgroup-lab.com",
+            "url": "https://www.bdgroup-lab.com/product/adsklicensing-for-autodesk-universial-patch/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726336140412,
+            "title": "Maya安装包合集_画忆妙妙屋",
+            "icon": "https://logo.clearbit.com/www.iiicg.com",
+            "url": "https://www.iiicg.com/archives/1752"
+          },
+          {
+            "type": "link",
+            "addDate": 1726335827941,
+            "title": "Prism versions | Prism-Pipeline",
+            "icon": "https://logo.clearbit.com/prism-pipeline.com",
+            "url": "https://prism-pipeline.com/prism-versions/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726333918045,
+            "title": "Prism Pipeline - Animation and VFX Pipeline",
+            "icon": "https://logo.clearbit.com/prism-pipeline.com",
+            "url": "https://prism-pipeline.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726264218130,
+            "title": "【HtoA】Arnold for Houdini 插件合集_画忆妙妙屋",
+            "icon": "https://logo.clearbit.com/www.iiicg.com",
+            "url": "https://www.iiicg.com/archives/13594"
+          },
+          {
+            "type": "link",
+            "addDate": 1725367087793,
+            "title": "Arnold - Plugin Download",
+            "icon": "https://logo.clearbit.com/manage.autodesk.com",
+            "url": "https://manage.autodesk.com/products/ARNOL?version=2025&platform=MAC&language=EINT"
           },
           {
             "type": "link",
@@ -2043,6 +2225,146 @@
       },
       {
         "type": "folder",
+        "addDate": 1648141612377,
+        "title": "Jupiter",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721900477821,
+            "title": "企业微信",
+            "icon": "https://logo.clearbit.com/work.weixin.qq.com",
+            "url": "https://work.weixin.qq.com/wework_admin/frame#/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1716883095738,
+            "title": "深圳市电子税务局",
+            "icon": "https://logo.clearbit.com/etax.shenzhen.chinatax.gov.cn",
+            "url": "https://etax.shenzhen.chinatax.gov.cn/bszm-web/apps/views/companyPage/desktopTax.html?lybz=dzhsy"
+          },
+          {
+            "type": "link",
+            "addDate": 1688370964921,
+            "title": "广东公共就业服务云平台",
+            "icon": "https://logo.clearbit.com/ggfw.hrss.gd.gov.cn",
+            "url": "https://ggfw.hrss.gd.gov.cn/OUJY/#/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1688303994040,
+            "title": "公租房轮候信息公示 -深圳市住房和建设局网站",
+            "icon": "https://logo.clearbit.com/zjj.sz.gov.cn",
+            "url": "http://zjj.sz.gov.cn/bsfw/jggs/gzflh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1686388075616,
+            "title": "广东公共就业服务云平台",
+            "icon": "https://logo.clearbit.com/ggfw.hrss.gd.gov.cn",
+            "url": "https://ggfw.hrss.gd.gov.cn/gdjycy/ggfw/app/index.html#/ggfw/grbsxq#reloaded"
+          },
+          {
+            "type": "link",
+            "addDate": 1679852533706,
+            "title": "广东省电子税务局 纳税人信息查询",
+            "icon": "https://logo.clearbit.com/etax.guangdong.chinatax.gov.cn",
+            "url": "https://etax.guangdong.chinatax.gov.cn/xxmh/html/index_origin.html?gopage=true&m1=gzcx&m2=swdjxxcx&fromWhere=&qxkzsx=0&tabTitle=null&cdId=dlqcd-111&gnDm=null&cdmc=%E5%85%AC%E4%BC%97%E6%9F%A5%E8%AF%A2"
+          },
+          {
+            "type": "link",
+            "addDate": 1677339148806,
+            "title": "广东省就业创业专项资金补贴申报平台",
+            "icon": "https://logo.clearbit.com/www.gdhrss.gov.cn",
+            "url": "https://www.gdhrss.gov.cn/gdjycy/ggfw/app/index.html#/ggfw/grbsxq"
+          },
+          {
+            "type": "link",
+            "addDate": 1668562702743,
+            "title": "国家企业信用信息公示系统",
+            "icon": "https://logo.clearbit.com/www.gsxt.gov.cn",
+            "url": "https://www.gsxt.gov.cn/%7B2F65FA3D47445BEFB4733D3E6598D9A364B15A0102D72AE17E7D07C01505B3743AEF12D94645AE1ABFC571D43F719A996522DA8D11ACA7D8659DC2BD00B3C743C7E8C7E8C743C7E8D6F9D6F9D6F9D6C5D0FFEAFFD0EEFBEEC19CC1E5F66DBCFDED9D075CA1E01E502A719F8C9FA0B319F246E308DD9CC7293A153A153A15-1668561721318%7D"
+          },
+          {
+            "type": "link",
+            "addDate": 1668561550784,
+            "title": "广东省就业创业专项资金补贴申报平台",
+            "icon": "https://logo.clearbit.com/ggfw.hrss.gd.gov.cn",
+            "url": "https://ggfw.hrss.gd.gov.cn/gdjycy/ggfw/app/index.html#/ggfw/grbsxq"
+          },
+          {
+            "type": "link",
+            "addDate": 1668233765611,
+            "title": "深圳市小汽车增量调控管理信息系统--个人申请",
+            "icon": "https://logo.clearbit.com/apply.jtys.sz.gov.cn",
+            "url": "https://apply.jtys.sz.gov.cn/apply/app/login/person/manage"
+          },
+          {
+            "type": "link",
+            "addDate": 1667347829893,
+            "title": "深圳市保障性住房轮候申请",
+            "icon": "https://logo.clearbit.com/zjj.sz.gov.cn",
+            "url": "https://zjj.sz.gov.cn/zfxx/bzflh/?code=pm02_SeF55QR9RgKmnvbAR8dAXA#/?main=true"
+          },
+          {
+            "type": "link",
+            "addDate": 1667332857657,
+            "title": "深圳市电子税务局",
+            "icon": "https://logo.clearbit.com/etax.shenzhen.chinatax.gov.cn",
+            "url": "https://etax.shenzhen.chinatax.gov.cn/bsfwt-web/index.html?#/xgm/gxhsy?lybz=sy"
+          },
+          {
+            "type": "link",
+            "addDate": 1667297303572,
+            "title": "深圳市公共就业服务平台",
+            "icon": "https://logo.clearbit.com/hrsspub.sz.gov.cn",
+            "url": "https://hrsspub.sz.gov.cn/ggjyfw/"
+          },
+          {
+            "type": "link",
+            "addDate": 1666132558611,
+            "title": "合同示范文本库 - 国家市场监督管理总局",
+            "icon": "https://logo.clearbit.com/cont.12315.cn",
+            "url": "https://cont.12315.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1665459443196,
+            "title": "深圳市人才一体化综合服务平台",
+            "icon": "https://logo.clearbit.com/hrsspub.sz.gov.cn",
+            "url": "https://hrsspub.sz.gov.cn/rcyth/website/#/userBusiness/matter?type=0"
+          },
+          {
+            "type": "link",
+            "addDate": 1653164667775,
+            "title": "深圳市社会保险基金管理局-单位网上服务",
+            "icon": "https://logo.clearbit.com/sipub.sz.gov.cn",
+            "url": "https://sipub.sz.gov.cn/hsoms/"
+          },
+          {
+            "type": "link",
+            "addDate": 1649179054819,
+            "title": "深圳市统一电子印章管理系统",
+            "icon": "https://logo.clearbit.com/amr.sz.gov.cn",
+            "url": "https://amr.sz.gov.cn/elecseal/seal-web//web/#/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1648141582721,
+            "title": "深圳市-广东政务服务网",
+            "icon": "https://logo.clearbit.com/www.gdzwfw.gov.cn",
+            "url": "http://www.gdzwfw.gov.cn/portal/index?region=440300"
+          },
+          {
+            "type": "link",
+            "addDate": 1625737990879,
+            "title": "深圳市人才引进业务申报系统",
+            "icon": "https://logo.clearbit.com/hrsspub.sz.gov.cn",
+            "url": "https://hrsspub.sz.gov.cn/rcyj/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1625577507645,
         "title": "Resource",
         "children": [
@@ -2134,384 +2456,6 @@
                 "title": "奶牛快传 | 文件传输服务",
                 "icon": "https://logo.clearbit.com/cowtransfer.com",
                 "url": "https://cowtransfer.com/i/storage"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1681839949482,
-            "title": "Watch",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1719877998225,
-                "title": "Shared File from l**p | PikPak - Private Cloud, Video Saver",
-                "icon": "https://logo.clearbit.com/mypikpak.com",
-                "url": "https://mypikpak.com/s/VNckYqzB3jnEpIThb1r0YQNno1/VNQc17fNieBTT1fGGMlfSa9to1"
-              },
-              {
-                "type": "link",
-                "addDate": 1719866708866,
-                "title": "黑料网 - 黑料大赛之瓜友们和女人做爱时的真实记录",
-                "icon": "https://logo.clearbit.com/sfi.5zm24s.net",
-                "url": "https://sfi.5zm24s.net/archives/51281.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1715671543963,
-                "title": "石川澪作品番号列表-番号库",
-                "icon": "https://logo.clearbit.com/www.caol024.com",
-                "url": "https://www.caol024.com/you/BESwuG758.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1705695004508,
-                "title": "MISSAV",
-                "icon": "https://logo.clearbit.com/missav.app",
-                "url": "https://missav.app/"
-              },
-              {
-                "type": "link",
-                "addDate": 1702506327940,
-                "title": "Language: chinese » nhentai: hentai doujinshi and…",
-                "icon": "https://logo.clearbit.com/nhentai.net",
-                "url": "https://nhentai.net/language/chinese/"
-              },
-              {
-                "type": "link",
-                "addDate": 1698277858717,
-                "title": "黑料网 - 热点吃瓜",
-                "icon": "https://logo.clearbit.com/5fr1q.mcggcr.com",
-                "url": "https://5fr1q.mcggcr.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1698097146555,
-                "title": "MissAV.com | Watch HD JAV Online | Free & High Qu…",
-                "icon": "https://logo.clearbit.com/missav.com",
-                "url": "https://missav.com/en"
-              },
-              {
-                "type": "link",
-                "addDate": 1696546956737,
-                "title": "Language: chinese, popular » nhentai: hentai douj…",
-                "icon": "https://logo.clearbit.com/nhentai.net",
-                "url": "https://nhentai.net/language/chinese/popular"
-              },
-              {
-                "type": "link",
-                "addDate": 1695582077997,
-                "title": "椰子直播-斗球直播",
-                "icon": "https://logo.clearbit.com/www.yezi668.com",
-                "url": "https://www.yezi668.com/l"
-              },
-              {
-                "type": "link",
-                "addDate": 1695490783740,
-                "title": "JavBus - AV磁力連結分享 - 日本成人影片資料庫",
-                "icon": "https://logo.clearbit.com/www.javbus.com",
-                "url": "https://www.javbus.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1694555930334,
-                "title": "JKF 捷克論壇",
-                "icon": "https://logo.clearbit.com/www.jkforum.net",
-                "url": "https://www.jkforum.net/forum.php"
-              },
-              {
-                "type": "link",
-                "addDate": 1694552812510,
-                "title": "评价最高的影片 - JAVLibrary",
-                "icon": "https://logo.clearbit.com/www.javlibrary.com",
-                "url": "https://www.javlibrary.com/cn/vl_bestrated.php?&mode=2&"
-              },
-              {
-                "type": "link",
-                "addDate": 1694207137883,
-                "title": "紳士漫畫移動版-專注分享漢化本子",
-                "icon": "https://logo.clearbit.com/www.wnacg.com",
-                "url": "https://www.wnacg.com/albums-index-cate-1.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1693805094484,
-                "title": "LIBVIO影视 - 超清在线视频站",
-                "icon": "https://logo.clearbit.com/www.libvio.fun",
-                "url": "https://www.libvio.fun/"
-              },
-              {
-                "type": "link",
-                "addDate": 1693085415280,
-                "title": "Watch Imaizumin-chi wa Douyara Gal no Tamariba ni…",
-                "icon": "https://logo.clearbit.com/hanime.tv",
-                "url": "https://hanime.tv/videos/hentai/imaizumin-chi-wa-douyara-gal-no-tamariba-ni-natteru-rashii-4"
-              },
-              {
-                "type": "link",
-                "addDate": 1692574914411,
-                "title": "JavDB",
-                "icon": "https://logo.clearbit.com/javdb.com",
-                "url": "https://javdb.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1692574603024,
-                "title": "Coomer",
-                "icon": "https://logo.clearbit.com/coomer.party",
-                "url": "https://coomer.party/"
-              },
-              {
-                "type": "link",
-                "addDate": 1692573466448,
-                "title": "免費A漫 - 禁漫天堂",
-                "icon": "https://logo.clearbit.com/jmcomic.me",
-                "url": "https://jmcomic.me/"
-              },
-              {
-                "type": "link",
-                "addDate": 1692573207595,
-                "title": "3Dエロ動画",
-                "icon": "https://logo.clearbit.com/oreno3d.com",
-                "url": "https://oreno3d.com/tags/206"
-              },
-              {
-                "type": "link",
-                "addDate": 1692572923401,
-                "title": "日本漫畫_在線漫畫閱讀第一站",
-                "icon": "https://logo.clearbit.com/xmanhua.com",
-                "url": "https://xmanhua.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1692572828938,
-                "title": "VCB-Studio - 大家一起实现的故事！",
-                "icon": "https://logo.clearbit.com/vcb-s.com",
-                "url": "https://vcb-s.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1692572241499,
-                "title": "新番連載 - ebb",
-                "icon": "https://logo.clearbit.com/ebb.io",
-                "url": "https://ebb.io/"
-              },
-              {
-                "type": "link",
-                "addDate": 1691170751105,
-                "title": "樱花动漫",
-                "icon": "https://logo.clearbit.com/www.yinhuadm.cc",
-                "url": "https://www.yinhuadm.cc/"
-              },
-              {
-                "type": "link",
-                "addDate": 1689707322545,
-                "title": "IPX-158 Uncut! Nonstop! Gangbang Battle Royal Idol VS B",
-                "icon": "https://logo.clearbit.com/missav.com",
-                "url": "https://missav.com/en/ipx-158"
-              },
-              {
-                "type": "link",
-                "addDate": 1681058096085,
-                "title": "Peach Butt Tee Anal Orgasm Third Long Legged Bitch Fuck To Call Master Chinese homemade video",
-                "icon": "https://logo.clearbit.com/91porn.com",
-                "url": "http://91porn.com/view_video.php?c=t&viewkey=162580284"
-              },
-              {
-                "type": "link",
-                "addDate": 1676754620187,
-                "title": "《中字-女友不来探病的理由3》普通视频在线观看-星辰影院",
-                "icon": "https://logo.clearbit.com/www.vod66.com",
-                "url": "https://www.vod66.com/jingdianpian/zhongzinvyoubulaitanbingdeliyou/0-1.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1673804734070,
-                "title": "JRKAN直播",
-                "icon": "https://logo.clearbit.com/www.jrskan.com",
-                "url": "http://www.jrskan.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1673293784609,
-                "title": "jrs直播-jrkan直播_NBA足球免费无插件在线视频直播吧",
-                "icon": "https://logo.clearbit.com/www.jrsnba.net",
-                "url": "http://www.jrsnba.net/"
-              },
-              {
-                "type": "link",
-                "addDate": 1672671250157,
-                "title": "低端影视 网址发布页",
-                "icon": "https://logo.clearbit.com/ddys.site",
-                "url": "https://ddys.site/"
-              },
-              {
-                "type": "link",
-                "addDate": 1670184680265,
-                "title": "青之芦苇 第20集—在线播放—樱花动漫(P)",
-                "icon": "https://logo.clearbit.com/m.yhdmp.live",
-                "url": "https://m.yhdmp.live/vp/22162-1-19.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1653334272408,
-                "title": "混沌武士01 - 在线观看 - 动漫 - 乐视视频",
-                "icon": "https://logo.clearbit.com/www.le.com",
-                "url": "https://www.le.com/ptv/vplay/1309008.html?ch=baidu_ffdsj&from=baidu_so&site=baidu_all"
-              },
-              {
-                "type": "link",
-                "addDate": 1646219655369,
-                "title": "枪火粤语版在线播放",
-                "icon": "https://logo.clearbit.com/www.dixidixi.com",
-                "url": "https://www.dixidixi.com/p/178981-1-1.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1643737554830,
-                "title": "穗高结花作品番号列表-番号库",
-                "icon": "https://logo.clearbit.com/www.caol024.com",
-                "url": "https://www.caol024.com/you/shuigaojieh.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1642542923437,
-                "title": "【骑乘位】潮吹国宝级神乳s级完全堕落五连发 Part II",
-                "icon": "https://logo.clearbit.com/www.pornhub.com",
-                "url": "https://www.pornhub.com/view_video.php?viewkey=ph613ea58941fc4"
-              },
-              {
-                "type": "link",
-                "addDate": 1637959723002,
-                "title": "Most Recent GirlsLeaked Reality - Uncensored World News, events and footages - Leakreality.com Leaked reality Uncensored news, politics, latest news, unbiased, politics, humor,",
-                "icon": "https://logo.clearbit.com/leakreality.com",
-                "url": "https://leakreality.com/videos/girls?page=2"
-              },
-              {
-                "type": "link",
-                "addDate": 1635534884466,
-                "title": "缘之空-樱花动漫",
-                "icon": "https://logo.clearbit.com/www.295k.com",
-                "url": "https://www.295k.com/play/2007-1-2.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1630006340203,
-                "title": "秘密教学第12话-两人之间的秘密_秘密教学漫画第12话-两人之间的秘密免费下拉阅读_优一(yoo1)漫画",
-                "icon": "https://logo.clearbit.com/www.yoo1.com",
-                "url": "https://www.yoo1.com/chapter/3381"
-              },
-              {
-                "type": "link",
-                "addDate": 1617607737971,
-                "title": "【进击的巨人第四季下载】全集下载_迅雷/百度云/网盘/QQ旋风 - 776动漫",
-                "icon": "https://logo.clearbit.com/www.776dm.com",
-                "url": "https://www.776dm.com/rexue/29576/"
-              },
-              {
-                "type": "link",
-                "addDate": 1607360365653,
-                "title": "进击的巨人 最终季 第01话 | 哔咪哔咪",
-                "icon": "https://logo.clearbit.com/www.bimiacg.com",
-                "url": "http://www.bimiacg.com/bangumi/3365/play/1/1/"
-              },
-              {
-                "type": "link",
-                "addDate": 1594926569205,
-                "title": "比赛直播赛程-英超直播赛程_网球直播赛程-爱奇艺体育",
-                "icon": "https://logo.clearbit.com/sports.iqiyi.com",
-                "url": "https://sports.iqiyi.com/sport/schedule.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1586406107512,
-                "title": "低端影视",
-                "icon": "https://logo.clearbit.com/ddrk.me",
-                "url": "https://ddrk.me/"
-              },
-              {
-                "type": "link",
-                "addDate": 1581952448648,
-                "title": "克劳斯：圣诞节的秘密BD1280高清中字版在线观看_动漫_新视觉影院",
-                "icon": "https://logo.clearbit.com/www.yy3t.com",
-                "url": "https://www.yy3t.com/play/46069-1-1/"
-              },
-              {
-                "type": "link",
-                "addDate": 1534239546286,
-                "title": "爱奇艺-全球领先的在线视频网站-海量正版高清视频在线观看",
-                "icon": "https://logo.clearbit.com/www.iqiyi.com",
-                "url": "https://www.iqiyi.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1532783035064,
-                "title": "YYeTs 人人影视|字幕组官方下载站",
-                "icon": "https://logo.clearbit.com/www.zimuzu.io",
-                "url": "http://www.zimuzu.io/"
-              },
-              {
-                "type": "link",
-                "addDate": 1531663667529,
-                "title": "ViuTV",
-                "icon": "https://logo.clearbit.com/viu.tv",
-                "url": "http://viu.tv/ch/99"
-              },
-              {
-                "type": "link",
-                "addDate": 1529513820165,
-                "title": "Welcome to Optus Sport – Watch Premier League TV shows, news and analysis",
-                "icon": "https://logo.clearbit.com/sport.optus.com.au",
-                "url": "https://sport.optus.com.au/"
-              },
-              {
-                "type": "link",
-                "addDate": 1529155464330,
-                "title": "澳洲同城体育|澳洲世界杯直播|俄罗斯世界杯直播|澳洲足球直播|NBA直播|中超直播|网球直播 - sports.localau.com",
-                "icon": "https://logo.clearbit.com/sports.localau.com",
-                "url": "http://sports.localau.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1524934638111,
-                "title": "腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看",
-                "icon": "https://logo.clearbit.com/v.qq.com",
-                "url": "https://v.qq.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1521595524326,
-                "title": "看TV",
-                "icon": "https://logo.clearbit.com/www.kantv.im",
-                "url": "http://www.kantv.im/"
-              },
-              {
-                "type": "link",
-                "addDate": 1500852968303,
-                "title": "123Netflix - Watch Free Movies Online & TV Series HD 1080p Quality",
-                "icon": "https://logo.clearbit.com/123netflix.com",
-                "url": "http://123netflix.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1452282011807,
-                "title": "中文字幕_ＷＷＷ．２３２ＰＰ．ＣＯＭ",
-                "icon": "https://logo.clearbit.com/www.232pp.com",
-                "url": "http://www.232pp.com/html/part/85.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1444853018916,
-                "title": "随机显示 | 飞G网 girl13.com 只有美女的图片库 Beautiful Nice Girls Gallery in China",
-                "icon": "https://logo.clearbit.com/www.girl13.com",
-                "url": "http://www.girl13.com/author/1/"
-              },
-              {
-                "type": "link",
-                "addDate": 1439108543655,
-                "title": "V电影_最大的微电影平台",
-                "icon": "https://logo.clearbit.com/www.vmovier.com",
-                "url": "http://www.vmovier.com/"
               }
             ]
           },
@@ -2780,12 +2724,6 @@
                 "url": "https://github.com/Baiyuetribe/paper2gui?utm_source=iplaysoft.com&hmsr=iplaysoft.com"
               }
             ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1677531160483,
-            "title": "3D",
-            "children": []
           },
           {
             "type": "folder",
@@ -3185,6 +3123,13 @@
                 "url": "https://www.xaudiopro.com/aivoice/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1725893929493,
+            "title": "HelloWindows.cn Windows系统下载仓储站",
+            "icon": "https://logo.clearbit.com/hellowindows.cn",
+            "url": "https://hellowindows.cn/"
           },
           {
             "type": "link",
@@ -5238,6 +5183,251 @@
             "url": "https://vpn.uts.edu.au/my.policy"
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1624305422639,
+        "title": "UTS",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1630120721529,
+            "title": "留学政务服务平台",
+            "icon": "https://logo.clearbit.com/zwfwbl.cscse.edu.cn",
+            "url": "http://zwfwbl.cscse.edu.cn/toMain?sysType=front"
+          },
+          {
+            "type": "link",
+            "addDate": 1614181457137,
+            "title": "My eQuals",
+            "icon": "https://logo.clearbit.com/www.myequals.net",
+            "url": "https://www.myequals.net/#/user/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1586715241678,
+            "title": "YEAR3 - OneDrive",
+            "icon": "https://logo.clearbit.com/studentutsedu-my.sharepoint.com",
+            "url": "https://studentutsedu-my.sharepoint.com/personal/matthew_gidney_uts_edu_au/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9zdHVkZW50dXRzZWR1LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL21hdHRoZXdfZ2lkbmV5X3V0c19lZHVfYXUvRW9RUU5jdWxkUGhDdXFYanJ2TkppZ0VCZ3NVWDZxVHE4MHhtYXFCdjQyX0s1QT9ydGltZT1KQ21HRFEzZjEwZw&viewid=72561ed0%2D17b6%2D4780%2Dba6b%2D122e2da79bd9&id=%2Fpersonal%2Fmatthew%5Fgidney%5Futs%5Fedu%5Fau%2FDocuments%2FUTS%5FTeaching%2FONLINE%5FCLASS%5FMATERIAL%2FYEAR3"
+          },
+          {
+            "type": "link",
+            "addDate": 1584695310658,
+            "title": "Zoom",
+            "icon": "https://logo.clearbit.com/utsmeet.zoom.us",
+            "url": "https://utsmeet.zoom.us/profile"
+          },
+          {
+            "type": "link",
+            "addDate": 1551422295879,
+            "title": "UTS: Academic year dates - UTS Handbook",
+            "icon": "https://logo.clearbit.com/www.handbook.uts.edu.au",
+            "url": "http://www.handbook.uts.edu.au/dates_academic.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1551422295879,
+            "title": "Allocate+ Student",
+            "icon": "https://logo.clearbit.com/mytimetable.uts.edu.au",
+            "url": "https://mytimetable.uts.edu.au/aplus2019/apstudent?ss=42d2343506e64bf0971b7088147e120a#timetable/grid"
+          },
+          {
+            "type": "link",
+            "addDate": 1551422295878,
+            "title": "Welcome, Kai – Blackboard Learn",
+            "icon": "https://logo.clearbit.com/online.uts.edu.au",
+            "url": "https://online.uts.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622742625,
+            "title": "UTS Student Feedback Survey",
+            "icon": "https://logo.clearbit.com/www.sfs.uts.edu.au",
+            "url": "https://www.sfs.uts.edu.au/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622689626,
+            "title": "UTS Animation Wiki",
+            "icon": "https://logo.clearbit.com/dabanimation.pbworks.com",
+            "url": "http://dabanimation.pbworks.com/w/page/81282665/DAB%20ANIMATION%20WIKI"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622621083,
+            "title": "Tractor Dashboard",
+            "icon": "https://logo.clearbit.com/tractor.dab.uts.edu.au",
+            "url": "https://tractor.dab.uts.edu.au/tv/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622563722,
+            "title": "Shotgun",
+            "icon": "https://logo.clearbit.com/utsanim.shotgunstudio.com",
+            "url": "https://utsanim.shotgunstudio.com/user/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "DAB Equipment Booking",
+            "icon": "https://logo.clearbit.com/resourcebookings.uts.edu.au",
+            "url": "https://resourcebookings.uts.edu.au/dab/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "Faculty of DAB, UTS",
+            "icon": "https://logo.clearbit.com/www.dab.uts.edu.au",
+            "url": "http://www.dab.uts.edu.au/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "University of Technology, Sydney",
+            "icon": "https://logo.clearbit.com/www.uts.edu.au",
+            "url": "http://www.uts.edu.au/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS Acceptable use of IT Policy",
+            "icon": "https://logo.clearbit.com/www.gsu.uts.edu.au",
+            "url": "http://www.gsu.uts.edu.au/policies/itfacilities.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS Class Timetables",
+            "icon": "https://logo.clearbit.com/timetable.uts.edu.au",
+            "url": "http://timetable.uts.edu.au/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS Email",
+            "icon": "https://logo.clearbit.com/www.uts.edu.au",
+            "url": "http://www.uts.edu.au/email/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS Exams",
+            "icon": "https://logo.clearbit.com/www.uts.edu.au",
+            "url": "http://www.uts.edu.au/current-students/managing-your-course/classes-and-assessment/exams"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS IT Helpdesk login",
+            "icon": "https://logo.clearbit.com/servicedesk.uts.edu.au",
+            "url": "https://servicedesk.uts.edu.au/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS Library",
+            "icon": "https://logo.clearbit.com/www.lib.uts.edu.au",
+            "url": "http://www.lib.uts.edu.au/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS MyStudentAdmin",
+            "icon": "https://logo.clearbit.com/onestopadmin.uts.edu.au",
+            "url": "https://onestopadmin.uts.edu.au/estudent/"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS Printing & Digital Image Services",
+            "icon": "https://logo.clearbit.com/www.uts.edu.au",
+            "url": "https://www.uts.edu.au/current-students/managing-your-course/using-uts-systems/student-printing"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS Software and Hardware",
+            "icon": "https://logo.clearbit.com/www.uts.edu.au",
+            "url": "http://www.uts.edu.au/current-students/managing-your-course/using-uts-systems/computer-software-and-hardware-purchase"
+          },
+          {
+            "type": "link",
+            "addDate": 1550622449440,
+            "title": "UTS Union - ActivateUTS",
+            "icon": "https://logo.clearbit.com/www.activateuts.com.au",
+            "url": "http://www.activateuts.com.au/"
+          },
+          {
+            "type": "link",
+            "addDate": 1524955140743,
+            "title": "Tools — UTS",
+            "icon": "https://logo.clearbit.com/www.utsdesignindex.com",
+            "url": "http://www.utsdesignindex.com/tools/"
+          },
+          {
+            "type": "link",
+            "addDate": 1518851517593,
+            "title": "UTS: Handbook",
+            "icon": "https://logo.clearbit.com/www.handbook.uts.edu.au",
+            "url": "http://www.handbook.uts.edu.au/"
+          },
+          {
+            "type": "link",
+            "addDate": 1518804995644,
+            "title": "My Timetable help guide | University of Technology Sydney",
+            "icon": "https://logo.clearbit.com/www.uts.edu.au",
+            "url": "https://www.uts.edu.au/current-students/managing-your-course/using-uts-systems/student-forms-apps-and-systems/my-1"
+          },
+          {
+            "type": "link",
+            "addDate": 1518185639094,
+            "title": "Accepting your offer | University of Technology Sydney",
+            "icon": "https://logo.clearbit.com/www.uts.edu.au",
+            "url": "https://www.uts.edu.au/future-students/international/commencing-students/accepting-and-deferring"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1726857377480,
+        "title": "[USD in Games] USD at Remedy - Kristof Minnaert - YouTube",
+        "icon": "https://logo.clearbit.com/www.youtube.com",
+        "url": "https://www.youtube.com/watch?v=FI2pyzTOvaQ"
+      },
+      {
+        "type": "link",
+        "addDate": 1726857315977,
+        "title": "Book of USD - Getting Started with Universal Scene Description (USD)",
+        "icon": "https://logo.clearbit.com/remedy-entertainment.github.io",
+        "url": "https://remedy-entertainment.github.io/USDBook/index.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1724935538575,
+        "title": "Cursor",
+        "icon": "https://logo.clearbit.com/www.cursor.com",
+        "url": "https://www.cursor.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1724858856499,
+        "title": "Materialize Image to Material Tool",
+        "icon": "https://logo.clearbit.com/www.boundingboxsoftware.com",
+        "url": "http://www.boundingboxsoftware.com/materialize/tutorials.php"
+      },
+      {
+        "type": "link",
+        "addDate": 1724840481096,
+        "title": "NPM | 雨云",
+        "icon": "https://logo.clearbit.com/npm.357987.xyz",
+        "url": "https://npm.357987.xyz/"
+      },
+      {
+        "type": "link",
+        "addDate": 1724795979585,
+        "title": "ysy的博客",
+        "icon": "https://logo.clearbit.com/ysysimon.com",
+        "url": "https://ysysimon.com/home"
       },
       {
         "type": "link",
